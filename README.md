@@ -1,6 +1,7 @@
 # React Native Performance Experiments
 
-Various performance experiments with React Native over a swipeable card example
+Various performance experiments with React Native over a swipeable card example. The same example is implemented multiple times with a pan responder, direct component manipulation, native container and Animated library.
+
 
 Full article: https://medium.com/@talkol/performance-limits-of-react-native-and-how-to-overcome-them-947630d7f440
 
