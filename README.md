@@ -3,7 +3,7 @@
 Various performance experiments with React Native over a swipeable card example. The same example is implemented multiple times with a pan responder, direct component manipulation, native container and Animated library.
 
 
-Full article: https://medium.com/@talkol/performance-limits-of-react-native-and-how-to-overcome-them-947630d7f440
+Full article: https://medium.com/@talkol/performance-limitations-of-react-native-and-how-to-overcome-them-947630d7f440
 
 <img src="http://i.imgur.com/JKY1EnZ.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="http://i.imgur.com/nby7Hos.gif">
