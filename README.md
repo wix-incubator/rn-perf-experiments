@@ -12,7 +12,7 @@ Full article: https://medium.com/@talkol/performance-limits-of-react-native-and-
 
 * `npm install`
 * Open `ios/example.xcodeproj` in Xcode
-* Run on a real device since simulator doesn't provide authentic results
+* It's recommended to run on a real device since the simulator doesn't provide authentic results
 * You may have to set your credentials under 
   * `Target example - General - Identity - Team`
   * `Target example - Build Settings - Code Signing Identity`
