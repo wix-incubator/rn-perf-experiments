@@ -16,7 +16,7 @@ Full article: https://medium.com/@talkol/performance-limits-of-react-native-and-
 * You may have to set your credentials under 
   * `Target example - General - Identity - Team`
   * `Target example - Build Settings - Code Signing Identity`
-* Don't forget to unremark the `jsCodeLocation` in OPTION 2 in `AppDelegate.m` if you want to avoid the packager and upload your bundle to the device
+* Don't forget in `AppDelegate.m` to unremark the `jsCodeLocation` in OPTION 2 if you want to avoid the packager and upload your bundle to the device
 
 ### Simulation of stress conditions
 
